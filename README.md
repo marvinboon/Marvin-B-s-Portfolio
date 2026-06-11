@@ -49,7 +49,7 @@ I enjoy learning how systems work, solving technical problems, and applying engi
 
 # Lab Portfolio
 
-## [Accessing Palo Alto PA-220 Firewall](docs/Access%20Firewall%20pa%20220%20lab.pdf)
+## [Accessing Palo Alto PA-220 Firewall](docs/Access%20Firewall%20pa%20220%20lab.docx)
 
 This lab focused on factory resetting and restoring a Palo Alto PA-220 firewall to its default state. It demonstrates the process of regaining administrative access and preparing the firewall for future configurations.
 
