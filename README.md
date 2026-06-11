@@ -55,31 +55,31 @@ This lab focused on factory resetting and restoring a Palo Alto PA-220 firewall 
 
 ---
 
-## [SOHO Network Configuration (Palo Alto)](docs/SOHO%20Configuration.pdf)
+## [SOHO Network Configuration (Palo Alto)](docs/SOHO%20Configuration.docx)
 
 Configured a Small Office/Home Office (SOHO) network using a Palo Alto PA-220 firewall. This project involved Layer 2 and Layer 3 interfaces, VLANs, DHCP, NAT, routing, and security policies to provide secure internet access.
 
 ---
 
-## [URL Filtering](docs/URL%20FILTERING.pdf)
+## [URL Filtering](docs/URL%20FILTERING.docx)
 
 Implemented URL filtering on the Palo Alto firewall to control web access and improve network security. This lab demonstrates the use of security profiles, PAN-DB categorization, and policy enforcement to restrict harmful or inappropriate websites.
 
 ---
 
-## [GlobalProtect VPN](docs/Global%20Protect%20VPN.pdf)
+## [GlobalProtect VPN](docs/Global%20Protect%20(VPN%20Lab)(1).docx)
 
 Configured GlobalProtect VPN on a Palo Alto PA-220 firewall to provide secure remote access. This project included authentication profiles, portal and gateway configuration, and remote desktop connectivity.
 
 ---
 
-## [SOHO Configuration (FortiGate 40F)](docs/SOHO%20on%20Fortinet.pdf)
+## [SOHO Configuration (FortiGate 40F)](docs/SOHO%20on%20Fortinet.docx)
 
 Built a secure SOHO environment using a FortiGate 40F firewall. The lab focused on firewall policies, scheduled access controls, traffic segmentation, and protecting internal devices from external threats.
 
 ---
 
-## [FortiGate WLAN and FortiAP Configuration](docs/40f%20WLAN%20&%20FortiAP%20Configuration.pdf)
+## [FortiGate WLAN and FortiAP Configuration](docs/40f%20WLAN%20%26%20FortiAP%20Configuration.docx)
 
 Configured wireless networking using a FortiGate 40F firewall and FortiAP access point. This lab demonstrates wireless deployment, device integration, and secure access point management.
 
