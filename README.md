@@ -47,7 +47,7 @@ I enjoy learning how systems work, solving technical problems, and applying engi
 
 ---
 
-# Lab Portfolio
+# Lab Write-ups
 
 ## [Accessing Palo Alto PA-220 Firewall](docs/Access%20Firewall%20pa%20220%20lab.docx)
 
@@ -99,6 +99,5 @@ Configured wireless networking using a FortiGate 40F firewall and FortiAP access
 
 ## Contact
 
-* GitHub: **Your GitHub Username**
-* LinkedIn: **Your LinkedIn Profile**
-* Email: **Your Email**
+* GitHub: **marvinboon**
+* Email: **mavinboonnantakul@gmail.com**
